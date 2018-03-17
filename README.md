@@ -13,3 +13,4 @@ result even if your guessed result doesn't differ from test result.
 * [gtu-02](./gtu-02)
 * [gtu-03](./gtu-03)
 * [gtu-04](./gtu-04)
+* [gtu-05](./gtu-05)
